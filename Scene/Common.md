@@ -12,4 +12,4 @@ This will list the names of the most common entries and components you will find
 ## Common Components
 | Name | Description |
 | --- | --- |
-| __Type | The exact data type of the entry, required for every entry. |
+| __Type | The data type of the entry. String variable and required for every entry. |
